@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>ui/mainwindow.ui</file>
+        <file>ui/TileMap.qml</file>
+        <file>ui/TileMapForm.ui.qml</file>
+    </qresource>
+</RCC>
